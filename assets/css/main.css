@@ -3857,8 +3857,9 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
+				flex: 0 0 50%;
 				padding: 4rem;
-				width: 50%;
+				
 			}
 
 			#main > .posts > article {
